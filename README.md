@@ -53,6 +53,6 @@ while(alive){
 </div>
 
 ## 🌐 Let's Catch-Up Here 👇
-[![Linkedin Badge](https://img.shields.io/badge/-Dev%20Varshney-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:www.linkedin.com/in/varshneydev27)](www.linkedin.com/in/varshneydev27)
+[![Linkedin Badge](https://img.shields.io/badge/-Dev%20Varshney-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/varshneydev27)](https://www.linkedin.com/in/varshneydev27)
 [![Instagram Badge](https://img.shields.io/badge/-Dev%20Varshney-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/devvarshney11/)](https://www.instagram.com/devvarshney11/)
 [![Gmail Badge](https://img.shields.io/badge/-Devvarshney11@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Devvarshney11@gmail.com)](mailto:Devvarshney11@gmail.com)
