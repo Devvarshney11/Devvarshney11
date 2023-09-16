@@ -1,7 +1,7 @@
-<h1 align="center"> 👋 Hi, I’m Dev </h1><br>
+<h1 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> Hi, I’m Dev </h1><br>
 
 <h2 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=56F770&center=true&width=435&lines=A+Programmer+from+India" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=56F770&center=true&width=435&lines=A+Programmer+from+India+🇮🇳" alt="Typing SVG" /></a>
 </h2>
 
 ### 👀 I’m interested in **competitive programming** and Web Development. <br>
@@ -28,7 +28,7 @@ while(alive){
 <!-- ![Web-dev coding](https://www.renderinfotech.com/assets/image/web-development.gif)-->
 
  ### Explored in tech:
- - [x] C++ : My Favourite One, JS is ❤️.
+ - [x] C++ : My Favourite One, C++ is ❤️.
  - [x] C 
  - [x] HTML
  - [x] CSS
