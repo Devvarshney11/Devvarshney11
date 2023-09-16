@@ -3,9 +3,10 @@
 <h2 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=56F770&center=true&width=435&lines=A+Programmer+from+India" alt="Typing SVG" /></a>
 </h2>
-### - 👀 I’m interested in **competitive programming** and Web Development. <br>
-### - 🌱 I’m currently learning **Full stack web-Dev** *(MERN)*. <br>
-### - 💞️ I’m looking to collaborate on web development projects. <br>
+
+### 👀 I’m interested in **competitive programming** and Web Development. <br>
+### 🌱 I’m currently learning **Full stack web-Dev** *(MERN)*. <br>
+### 💞️ I’m looking to collaborate on web development projects. <br>
 <br><br>
 
 ```js
