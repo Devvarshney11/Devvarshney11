@@ -32,7 +32,7 @@ while(alive){
  - [x] C 
  - [x] HTML
  - [x] CSS
- - [x] Tailwind Csss 
+ - [x] Tailwind Css 
  - [x] Javscript
  - [x] React.js (Beginner level)
  - [x] Python
