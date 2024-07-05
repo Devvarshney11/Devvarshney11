@@ -32,6 +32,7 @@ while(alive){
  - [x] Java
  - [x] Tailwind Css 
  - [x] Javscript
+ - [x] Typescript 
  - [x] MonogoDB
  - [x] Express.js 
  - [x] React.js
